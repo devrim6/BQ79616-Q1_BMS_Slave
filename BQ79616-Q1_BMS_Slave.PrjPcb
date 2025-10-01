@@ -86,6 +86,40 @@ GenerateClassCluster=0
 DocumentUniqueId=HBOUVSGA
 
 [Document3]
+DocumentPath=Cell Balancing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WUGXJFPH
+
+[Document4]
+DocumentPath=Cell Voltage Sensing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NYQQOBLT
+
+[Document5]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKFHZHWY
 
-[Document4]
+[Document6]
 DocumentPath=BQ79616-Q1_BMS_Slave.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document7]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDESWGQB
 
-[Document6]
+[Document8]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,6 +186,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCVELGQB
+
+[Document9]
+DocumentPath=Communication.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VLRXEBSH
 
 [Configuration1]
 Name=Sources
@@ -1135,6 +1186,42 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=CB0|NetColor=$000099FF
+Net2=NetName=CB1|NetColor=$000099FF
+Net3=NetName=CB10|NetColor=$000099FF
+Net4=NetName=CB11|NetColor=$000099FF
+Net5=NetName=CB12|NetColor=$000099FF
+Net6=NetName=CB13|NetColor=$000099FF
+Net7=NetName=CB14|NetColor=$000099FF
+Net8=NetName=CB15|NetColor=$000099FF
+Net9=NetName=CB16|NetColor=$000099FF
+Net10=NetName=CB2|NetColor=$000099FF
+Net11=NetName=CB3|NetColor=$000099FF
+Net12=NetName=CB4|NetColor=$000099FF
+Net13=NetName=CB5|NetColor=$000099FF
+Net14=NetName=CB6|NetColor=$000099FF
+Net15=NetName=CB7|NetColor=$000099FF
+Net16=NetName=CB8|NetColor=$000099FF
+Net17=NetName=CB9|NetColor=$000099FF
+Net18=NetName=VC0|NetColor=$00FF0099
+Net19=NetName=VC1|NetColor=$00FF0099
+Net20=NetName=VC10|NetColor=$00FF0099
+Net21=NetName=VC11|NetColor=$00FF0099
+Net22=NetName=VC12|NetColor=$00FF0099
+Net23=NetName=VC13|NetColor=$00FF0099
+Net24=NetName=VC14|NetColor=$00FF0099
+Net25=NetName=VC15|NetColor=$00FF0099
+Net26=NetName=VC16|NetColor=$00FF0099
+Net27=NetName=VC2|NetColor=$00FF0099
+Net28=NetName=VC3|NetColor=$00FF0099
+Net29=NetName=VC4|NetColor=$00FF0099
+Net30=NetName=VC5|NetColor=$00FF0099
+Net31=NetName=VC6|NetColor=$00FF0099
+Net32=NetName=VC7|NetColor=$00FF0099
+Net33=NetName=VC8|NetColor=$00FF0099
+Net34=NetName=VC9|NetColor=$00FF0099
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
