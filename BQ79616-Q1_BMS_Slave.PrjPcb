@@ -255,6 +255,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYRCJGOW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BQ79616-Q1_BMS_Slave\Design Rule Check - BMS_Slave_RevA.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=A
@@ -914,14 +918,6 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
-Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1006,11 +1002,6 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
-Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1174,8 +1165,6 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
-Type162=1
-Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1243,44 +1232,44 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+Cell1|NetColor=clYellow
-Net2=NetName=+Cell10|NetColor=clYellow
-Net3=NetName=+Cell11|NetColor=clYellow
-Net4=NetName=+Cell12|NetColor=clYellow
-Net5=NetName=+Cell13|NetColor=clYellow
-Net6=NetName=+Cell13_2nd|NetColor=$00000098
-Net7=NetName=+Cell14|NetColor=clYellow
-Net8=NetName=+Cell15|NetColor=clYellow
-Net9=NetName=+Cell16|NetColor=clYellow
-Net10=NetName=+Cell16_2nd|NetColor=$00000098
-Net11=NetName=+Cell2|NetColor=clYellow
-Net12=NetName=+Cell3|NetColor=clYellow
-Net13=NetName=+Cell4|NetColor=clYellow
-Net14=NetName=+Cell5|NetColor=clYellow
-Net15=NetName=+Cell6|NetColor=clYellow
-Net16=NetName=+Cell7|NetColor=clYellow
-Net17=NetName=+Cell8|NetColor=clYellow
-Net18=NetName=+Cell9|NetColor=clYellow
-Net19=NetName=AVSS|NetColor=$00434343
-Net20=NetName=BAT|NetColor=$00000098
-Net21=NetName=CB0|NetColor=$000099FF
-Net22=NetName=CB1|NetColor=$000099FF
-Net23=NetName=CB10|NetColor=$000099FF
-Net24=NetName=CB11|NetColor=$000099FF
-Net25=NetName=CB12|NetColor=$000099FF
-Net26=NetName=CB13|NetColor=$000099FF
-Net27=NetName=CB14|NetColor=$000099FF
-Net28=NetName=CB15|NetColor=$000099FF
-Net29=NetName=CB16|NetColor=$000099FF
-Net30=NetName=CB2|NetColor=$000099FF
-Net31=NetName=CB3|NetColor=$000099FF
-Net32=NetName=CB4|NetColor=$000099FF
-Net33=NetName=CB5|NetColor=$000099FF
-Net34=NetName=CB6|NetColor=$000099FF
-Net35=NetName=CB7|NetColor=$000099FF
-Net36=NetName=CB8|NetColor=$000099FF
-Net37=NetName=CB9|NetColor=$000099FF
-Net38=NetName=-Cell1|NetColor=clYellow
+Net1=NetName=-Cell1|NetColor=clYellow
+Net2=NetName=+Cell1|NetColor=clYellow
+Net3=NetName=+Cell10|NetColor=clYellow
+Net4=NetName=+Cell11|NetColor=clYellow
+Net5=NetName=+Cell12|NetColor=clYellow
+Net6=NetName=+Cell13|NetColor=clYellow
+Net7=NetName=+Cell13_2nd|NetColor=$00000098
+Net8=NetName=+Cell14|NetColor=clYellow
+Net9=NetName=+Cell15|NetColor=clYellow
+Net10=NetName=+Cell16|NetColor=clYellow
+Net11=NetName=+Cell16_2nd|NetColor=$00000098
+Net12=NetName=+Cell2|NetColor=clYellow
+Net13=NetName=+Cell3|NetColor=clYellow
+Net14=NetName=+Cell4|NetColor=clYellow
+Net15=NetName=+Cell5|NetColor=clYellow
+Net16=NetName=+Cell6|NetColor=clYellow
+Net17=NetName=+Cell7|NetColor=clYellow
+Net18=NetName=+Cell8|NetColor=clYellow
+Net19=NetName=+Cell9|NetColor=clYellow
+Net20=NetName=AVSS|NetColor=$00434343
+Net21=NetName=BAT|NetColor=$00000098
+Net22=NetName=CB0|NetColor=$000099FF
+Net23=NetName=CB1|NetColor=$000099FF
+Net24=NetName=CB10|NetColor=$000099FF
+Net25=NetName=CB11|NetColor=$000099FF
+Net26=NetName=CB12|NetColor=$000099FF
+Net27=NetName=CB13|NetColor=$000099FF
+Net28=NetName=CB14|NetColor=$000099FF
+Net29=NetName=CB15|NetColor=$000099FF
+Net30=NetName=CB16|NetColor=$000099FF
+Net31=NetName=CB2|NetColor=$000099FF
+Net32=NetName=CB3|NetColor=$000099FF
+Net33=NetName=CB4|NetColor=$000099FF
+Net34=NetName=CB5|NetColor=$000099FF
+Net35=NetName=CB6|NetColor=$000099FF
+Net36=NetName=CB7|NetColor=$000099FF
+Net37=NetName=CB8|NetColor=$000099FF
+Net38=NetName=CB9|NetColor=$000099FF
 Net39=NetName=COMH_0_N|NetColor=clLime
 Net40=NetName=COMH_0_P|NetColor=clLime
 Net41=NetName=COMH_1_N|NetColor=clLime
